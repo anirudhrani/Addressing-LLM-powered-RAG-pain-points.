@@ -1,0 +1,8 @@
+pymongo
+langchain
+pandas
+pypdf
+gdown
+langchain_google_genai
+langchain-community
+python-dotenv
